@@ -1,0 +1,3 @@
+18: words
+12: file
+6: program
